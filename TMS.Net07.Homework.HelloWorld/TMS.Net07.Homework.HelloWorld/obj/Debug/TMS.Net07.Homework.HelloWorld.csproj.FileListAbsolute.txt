@@ -1,0 +1,7 @@
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\bin\Debug\TMS.Net07.Homework.HelloWorld.exe.config
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\bin\Debug\TMS.Net07.Homework.HelloWorld.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\bin\Debug\TMS.Net07.Homework.HelloWorld.pdb
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\obj\Debug\TMS.Net07.Homework.HelloWorld.csprojAssemblyReference.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\obj\Debug\TMS.Net07.Homework.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\obj\Debug\TMS.Net07.Homework.HelloWorld.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\obj\Debug\TMS.Net07.Homework.HelloWorld.pdb
