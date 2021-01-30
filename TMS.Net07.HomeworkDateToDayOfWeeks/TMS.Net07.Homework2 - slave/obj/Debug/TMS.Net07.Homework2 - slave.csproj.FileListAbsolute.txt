@@ -5,3 +5,10 @@ C:\Users\salat\source\repos\TMS.Net07.Homework2\TMS.Net07.Homework2 - slave\obj\
 C:\Users\salat\source\repos\TMS.Net07.Homework2\TMS.Net07.Homework2 - slave\obj\Debug\TMS.Net07.Homework2 - slave.csproj.CoreCompileInputs.cache
 C:\Users\salat\source\repos\TMS.Net07.Homework2\TMS.Net07.Homework2 - slave\obj\Debug\TMS.Net07.Homework2 - slave.exe
 C:\Users\salat\source\repos\TMS.Net07.Homework2\TMS.Net07.Homework2 - slave\obj\Debug\TMS.Net07.Homework2 - slave.pdb
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - slave\bin\Debug\TMS.Net07.Homework2 - slave.exe.config
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - slave\bin\Debug\TMS.Net07.Homework2 - slave.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - slave\bin\Debug\TMS.Net07.Homework2 - slave.pdb
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - slave\obj\Debug\TMS.Net07.Homework2 - slave.csprojAssemblyReference.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - slave\obj\Debug\TMS.Net07.Homework2 - slave.csproj.CoreCompileInputs.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - slave\obj\Debug\TMS.Net07.Homework2 - slave.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - slave\obj\Debug\TMS.Net07.Homework2 - slave.pdb
