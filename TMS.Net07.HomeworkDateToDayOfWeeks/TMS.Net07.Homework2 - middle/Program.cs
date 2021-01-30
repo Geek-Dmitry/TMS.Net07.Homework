@@ -11,7 +11,7 @@ namespace TMS.Net07.Homework2___middle
         static void Main(string[] args)
         {
             string input;
-            DateTime inputDate;
+            DateTime inputDate, maxRange = DateTime.Parse("31.12.2999");
 
             Console.Title = "Dmitry Salata - TMS.Net07.Homework2 - level not slave, but not master (middle)";
             Console.WriteLine("Please, enter the date in format DD.MM.yyyy or DD/MM/yyyy.");
@@ -23,7 +23,14 @@ namespace TMS.Net07.Homework2___middle
                
                 if (DateTime.TryParse(input, out inputDate) == true)
                 {
-                    Console.WriteLine(inputDate.ToString($"\n{input} - dddd", new System.Globalization.CultureInfo("en-EN")));
+                    if (inputDate > maxRange)
+                    {
+                        Console.WriteLine("\nPlease, enter the date in range from 01.01.0001 to 31.12.2999");
+                    }
+                    else
+                    {
+                        Console.WriteLine(inputDate.ToString($"\n{input} - dddd", new System.Globalization.CultureInfo("en-EN")));
+                    }
                 }
                 else
                 {
