@@ -6,7 +6,8 @@ class Hard
     {
 
         int number;
-        string enter, txtMessage = "You are enter";
+        string enter; 
+        const string txtMessage = "You are enter";
         bool inputIsNumber;
 
         Console.Title = "Dmitry Salata - TMS.Net07.Homework - Hard";
@@ -23,15 +24,15 @@ class Hard
             if (inputIsNumber == true)
             {
                 if (number == 0)
-                    Console.WriteLine($"{txtMessage} number {number}!\n Entering number 0 is close this program.\n Good bye!");
+                    Console.WriteLine($"{txtMessage} number {number}! {Environment.NewLine} Entering number 0 is close this program.{Environment.NewLine} Good bye!");
                 else
                 {
-                    Console.WriteLine($"{txtMessage} number {number}!\n Please, enter any other number.");
+                    Console.WriteLine($"{txtMessage} number {number}!{Environment.NewLine} Please, enter any other number.");
                 }
             }
             else
             {
-                Console.WriteLine($"{txtMessage} {enter} and it is not a number!\n Please, enter only a numbers.");
+                Console.WriteLine($"{txtMessage} {enter} and it is not a number!{Environment.NewLine} Please, enter only a numbers.");
                 number = 1;
             }
         }

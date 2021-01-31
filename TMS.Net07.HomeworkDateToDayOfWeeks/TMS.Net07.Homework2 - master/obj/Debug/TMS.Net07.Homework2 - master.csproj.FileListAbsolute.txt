@@ -1,0 +1,7 @@
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - master\bin\Debug\TMS.Net07.Homework2 - master.exe.config
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - master\bin\Debug\TMS.Net07.Homework2 - master.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - master\bin\Debug\TMS.Net07.Homework2 - master.pdb
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - master\obj\Debug\TMS.Net07.Homework2 - master.csprojAssemblyReference.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - master\obj\Debug\TMS.Net07.Homework2 - master.csproj.CoreCompileInputs.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - master\obj\Debug\TMS.Net07.Homework2 - master.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.HomeworkDateToDayOfWeeks\TMS.Net07.Homework2 - master\obj\Debug\TMS.Net07.Homework2 - master.pdb
