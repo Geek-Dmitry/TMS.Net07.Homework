@@ -1,0 +1,7 @@
+C:\Users\salat\source\repos\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial cycle\bin\Debug\TMS.Net07.Homework.Algoritms - factorial cycle.exe.config
+C:\Users\salat\source\repos\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial cycle\bin\Debug\TMS.Net07.Homework.Algoritms - factorial cycle.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial cycle\bin\Debug\TMS.Net07.Homework.Algoritms - factorial cycle.pdb
+C:\Users\salat\source\repos\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial cycle\obj\Debug\TMS.Net07.Homework.Algoritms - factorial cycle.csprojAssemblyReference.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial cycle\obj\Debug\TMS.Net07.Homework.Algoritms - factorial cycle.csproj.CoreCompileInputs.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial cycle\obj\Debug\TMS.Net07.Homework.Algoritms - factorial cycle.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial cycle\obj\Debug\TMS.Net07.Homework.Algoritms - factorial cycle.pdb
