@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS.Net07.Homework.Algoritms - factorial cycle", "TMS.Net07.Homework.Algoritms - factorial cycle\TMS.Net07.Homework.Algoritms - factorial cycle.csproj", "{F85C968A-868E-483B-829B-E77CA506E292}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS.Net07.Homework.Algoritms - factorial recursion", "TMS.Net07.Homework.Algoritms - factorial recursion\TMS.Net07.Homework.Algoritms - factorial recursion.csproj", "{626DA154-649E-4668-A6EC-710E7E66A838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS.Net07.Homework.Algoritms - fibs number recursion", "TMS.Net07.Homework.Algoritms - fibs number recursion\TMS.Net07.Homework.Algoritms - fibs number recursion.csproj", "{0571CC1A-9EDA-4ED3-A463-00C6817885AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F85C968A-868E-483B-829B-E77CA506E292}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F85C968A-868E-483B-829B-E77CA506E292}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F85C968A-868E-483B-829B-E77CA506E292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626DA154-649E-4668-A6EC-710E7E66A838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626DA154-649E-4668-A6EC-710E7E66A838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626DA154-649E-4668-A6EC-710E7E66A838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626DA154-649E-4668-A6EC-710E7E66A838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0571CC1A-9EDA-4ED3-A463-00C6817885AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0571CC1A-9EDA-4ED3-A463-00C6817885AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0571CC1A-9EDA-4ED3-A463-00C6817885AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0571CC1A-9EDA-4ED3-A463-00C6817885AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
