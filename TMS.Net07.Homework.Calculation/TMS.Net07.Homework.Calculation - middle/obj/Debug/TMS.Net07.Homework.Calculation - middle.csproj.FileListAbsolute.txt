@@ -1,0 +1,7 @@
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation - middle\bin\Debug\TMS.Net07.Homework.Calculation - middle.exe.config
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation - middle\bin\Debug\TMS.Net07.Homework.Calculation - middle.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation - middle\bin\Debug\TMS.Net07.Homework.Calculation - middle.pdb
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation - middle\obj\Debug\TMS.Net07.Homework.Calculation - middle.csprojAssemblyReference.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation - middle\obj\Debug\TMS.Net07.Homework.Calculation - middle.csproj.CoreCompileInputs.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation - middle\obj\Debug\TMS.Net07.Homework.Calculation - middle.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation - middle\obj\Debug\TMS.Net07.Homework.Calculation - middle.pdb

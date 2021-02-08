@@ -1,0 +1,7 @@
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation -easy\bin\Debug\TMS.Net07.Homework.Calculation -easy.exe.config
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation -easy\bin\Debug\TMS.Net07.Homework.Calculation -easy.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation -easy\bin\Debug\TMS.Net07.Homework.Calculation -easy.pdb
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation -easy\obj\Debug\TMS.Net07.Homework.Calculation -easy.csprojAssemblyReference.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation -easy\obj\Debug\TMS.Net07.Homework.Calculation -easy.csproj.CoreCompileInputs.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation -easy\obj\Debug\TMS.Net07.Homework.Calculation -easy.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Calculation\TMS.Net07.Homework.Calculation -easy\obj\Debug\TMS.Net07.Homework.Calculation -easy.pdb
