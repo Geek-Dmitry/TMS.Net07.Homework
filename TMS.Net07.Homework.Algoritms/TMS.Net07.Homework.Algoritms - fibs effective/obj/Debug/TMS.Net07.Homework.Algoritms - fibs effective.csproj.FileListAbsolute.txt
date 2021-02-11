@@ -1,0 +1,7 @@
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - fibs effective\bin\Debug\TMS.Net07.Homework.Algoritms - fibs effective.exe.config
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - fibs effective\bin\Debug\TMS.Net07.Homework.Algoritms - fibs effective.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - fibs effective\bin\Debug\TMS.Net07.Homework.Algoritms - fibs effective.pdb
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - fibs effective\obj\Debug\TMS.Net07.Homework.Algoritms - fibs effective.csprojAssemblyReference.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - fibs effective\obj\Debug\TMS.Net07.Homework.Algoritms - fibs effective.csproj.CoreCompileInputs.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - fibs effective\obj\Debug\TMS.Net07.Homework.Algoritms - fibs effective.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - fibs effective\obj\Debug\TMS.Net07.Homework.Algoritms - fibs effective.pdb

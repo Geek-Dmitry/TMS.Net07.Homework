@@ -21,6 +21,10 @@ namespace TMS.Net07.Homework.Algoritms___fibs_number_recursion
                 {
                     Console.WriteLine($"{errorMessage}");
                 }
+                else if (index < 0) 
+                {
+                    Console.WriteLine($"{errorMessage}");
+                }
                 int result = resultValue(index);
                 Console.WriteLine($"{Environment.NewLine}{result}");
             }

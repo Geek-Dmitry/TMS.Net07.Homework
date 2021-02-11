@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TMS.Net07.Homework.Algoritms___factorial_recursion
+namespace TMS.Net07.Homework.Geometry___effectiv_fibonacci_algoritm
 {
     class Program
     {
@@ -25,25 +25,27 @@ namespace TMS.Net07.Homework.Algoritms___factorial_recursion
                 {
                     Console.WriteLine($"{errorMessage}");
                 }
-                if (index < 0)
-                {
-                    Console.WriteLine($"{errorMessage}");
-                }
-                else 
-                {
-                    int result = resultValue(index);
-                    Console.WriteLine($"{Environment.NewLine}{result}");
-                }
+                int[] result = resultValue(index);
+                Console.WriteLine($"{Environment.NewLine}{result[index]}");
             }
         }
         //method for factorial
-        static int resultValue (int index)
+        static int[] resultValue(int index)
         {
-            if (index == 0)
+            int[] fibs = new int [index + 1];
+            for (int i = 0; i < fibs.Length; i++)
             {
-                return 1;
+                if (index == 0 || index == 1)
+                {
+                    fibs[i] = 1;
+                }
+                else
+                {
+                    fibs[i] = fibs[i - 1] + fibs[i - 2];
+                    return fibs;
+                }
             }
-            else return index * resultValue(index - 1);
+            return fibs;
         }
     }
 }

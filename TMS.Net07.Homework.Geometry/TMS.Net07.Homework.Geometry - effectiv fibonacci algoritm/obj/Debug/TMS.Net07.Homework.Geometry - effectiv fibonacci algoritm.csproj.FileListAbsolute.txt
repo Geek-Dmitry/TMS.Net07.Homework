@@ -1,0 +1,7 @@
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Geometry\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm\bin\Debug\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm.exe.config
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Geometry\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm\bin\Debug\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Geometry\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm\bin\Debug\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm.pdb
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Geometry\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm\obj\Debug\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm.csprojAssemblyReference.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Geometry\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm\obj\Debug\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm.csproj.CoreCompileInputs.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Geometry\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm\obj\Debug\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Geometry\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm\obj\Debug\TMS.Net07.Homework.Geometry - effectiv fibonacci algoritm.pdb
