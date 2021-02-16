@@ -32,13 +32,13 @@ namespace TMS.Net07.Homework.Algoritms___fibs_effective
                 else
                 {
                     int[] intermediate = new int [index + 1];
-                    int result = resultValue(index, intermediate);
+                    int result = ResultValue(index, intermediate);
                     Console.WriteLine($"{Environment.NewLine}{result}");
                 }
             }
         }
         //method for fibonacci
-        static int resultValue (int index, int [] intermediate)
+        static int ResultValue (int index, int [] intermediate)
         {
             if (index == 0 || index == 1)
             {
@@ -48,7 +48,7 @@ namespace TMS.Net07.Homework.Algoritms___fibs_effective
 
             if (intermediate[index] == 0) 
             {
-                intermediate [index] = resultValue(index - 1, intermediate) + resultValue(index - 2, intermediate);
+                intermediate [index] = ResultValue(index - 1, intermediate) + ResultValue(index - 2, intermediate);
             }
             return intermediate[index];
         }

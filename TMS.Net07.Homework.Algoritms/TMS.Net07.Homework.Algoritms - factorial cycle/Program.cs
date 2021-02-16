@@ -35,13 +35,13 @@ namespace TMS.Net07.Homework.Algoritms___factorial_cycle
                 }
                 else 
                 {
-                    int result = resultValue(index);
+                    int result = ResultValue(index);
                     Console.WriteLine($"{Environment.NewLine}{result}");
                 }
             }
         }
         //method for factorial
-        static int resultValue (int index)
+        static int ResultValue (int index)
         {
             int i = 1;
             int result;

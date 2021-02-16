@@ -25,12 +25,12 @@ namespace TMS.Net07.Homework.Algoritms___fibs_number_recursion
                 {
                     Console.WriteLine($"{errorMessage}");
                 }
-                int result = resultValue(index);
+                int result = ResultValue(index);
                 Console.WriteLine($"{Environment.NewLine}{result}");
             }
         }
         //method for factorial
-        static int resultValue(int index)
+        static int ResultValue(int index)
         {
             if (index == 1 || index == 2)
             {

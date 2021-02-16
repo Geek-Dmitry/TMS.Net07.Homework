@@ -125,7 +125,6 @@ namespace TMS.Net07.Homework.Calculation__easy
                                 break;
                         }
                     }
-
                     //to RUB
                     else
                     {

@@ -22,7 +22,7 @@ Enter value in next format: number operation number or operation number");
                 {
                     return;
                 }
-                double[] enterValue = parseEnterValue(value);
+                double[] enterValue = ParseEnterValue(value);
                 double result;
 
                 if (enterValue == null)
@@ -100,27 +100,19 @@ Enter value in next format: number operation number or operation number");
             }
         }
         //method for parsing enter string value in double for calculation;
-        static double[] parseEnterValue (string value)
+        static double[] ParseEnterValue (string value)
         {
             string[] operationSeparator = { "+", "-", "/", "*", "%", "sqrt", "sqr", "pow" };
-            try
-            {
-                string[] enterValueString = value.Split(operationSeparator, StringSplitOptions.None);
-                double[] enterValueDouble = new double[enterValueString.Length];
-                for (int i = 0; i < enterValueString.Length; i++)
-                {
-                    {
-                        double.TryParse(enterValueString[i], out enterValueDouble[i]);
-                    }
-                }
-                return enterValueDouble;
-            }
-            catch
-            {
-                return null;
-
-            }
            
+            string[] enterValueString = value.Split(operationSeparator, StringSplitOptions.None);
+            double[] enterValueDouble = new double[enterValueString.Length];
+            for (int i = 0; i < enterValueString.Length; i++)
+            {
+                {
+                    double.TryParse(enterValueString[i], out enterValueDouble[i]);
+                }
+            }
+            return enterValueDouble;
         }
     }
 }
