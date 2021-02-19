@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TMS.Net07.Homework.Algoritms - fibs number recursion/1.0.0": {
+        "runtime": {
+          "TMS.Net07.Homework.Algoritms - fibs number recursion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TMS.Net07.Homework.Algoritms - fibs number recursion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

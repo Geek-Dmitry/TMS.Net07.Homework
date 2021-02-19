@@ -1,0 +1,7 @@
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial recursion\bin\Debug\TMS.Net07.Homework.Algoritms - factorial recursion.exe.config
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial recursion\bin\Debug\TMS.Net07.Homework.Algoritms - factorial recursion.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial recursion\bin\Debug\TMS.Net07.Homework.Algoritms - factorial recursion.pdb
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial recursion\obj\Debug\TMS.Net07.Homework.Algoritms - factorial recursion.csprojAssemblyReference.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial recursion\obj\Debug\TMS.Net07.Homework.Algoritms - factorial recursion.csproj.CoreCompileInputs.cache
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial recursion\obj\Debug\TMS.Net07.Homework.Algoritms - factorial recursion.exe
+C:\Users\salat\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.Algoritms\TMS.Net07.Homework.Algoritms - factorial recursion\obj\Debug\TMS.Net07.Homework.Algoritms - factorial recursion.pdb
